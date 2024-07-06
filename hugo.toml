@@ -3,4 +3,3 @@ languageCode = 'en-us'
 title = '@nimeajku'
 theme = 'hugo-PaperMod'
 relativeURLs = true
-canonifyURLs = true
