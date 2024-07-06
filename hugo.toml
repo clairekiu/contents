@@ -1,4 +1,4 @@
 baseURL = 'https://clairekiu.github.io'
 languageCode = 'en-us'
 title = '@nimeajku'
-theme = 'PaperMod'
+theme = 'hugo-PaperMod'
