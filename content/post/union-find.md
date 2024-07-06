@@ -1,6 +1,7 @@
 +++
 title = 'Union Find (C++)'
 date = 2024-07-07T02:49:18+09:00
+tags = ['Coding', 'C++']
 +++
 
 ## Union Find
