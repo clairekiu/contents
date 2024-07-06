@@ -3,3 +3,6 @@ languageCode = 'kr-ko'
 title = '@nimeajku'
 theme = 'hugo-PaperMod'
 relativeURLs = true
+
+[taxonomies]
+tag = "tags"

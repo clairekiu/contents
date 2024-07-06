@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "61aec0bc8566667c",
+    "id": "c98c5b7cd9890caf",
     "type": "split",
     "children": [
       {
-        "id": "6328e157459f85be",
+        "id": "56a2aeb98cbcbca6",
         "type": "tabs",
         "children": [
           {
-            "id": "33f2d794c2931a85",
+            "id": "e414c09f10ba3d84",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4d7b7f7dbccfe3a8",
+    "id": "807bbaeb5589d040",
     "type": "split",
     "children": [
       {
-        "id": "4aab4b5d2b09e4fe",
+        "id": "c50801fcbdf9ce35",
         "type": "tabs",
         "children": [
           {
-            "id": "816be5c56e419cd1",
+            "id": "de187477c7426462",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "abdda739024bcaad",
+            "id": "f7a3a2ee33c27f14",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "65345458c30346c3",
+            "id": "f37e2168644cf06f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,19 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "e53218d59529f90f",
+    "id": "44b726dddc0b3c70",
     "type": "split",
     "children": [
       {
-        "id": "90ce63786c65002e",
+        "id": "03a00fe98a32e34a",
         "type": "tabs",
         "children": [
           {
-            "id": "3663e068bb58e4da",
+            "id": "e06f697316f1c25c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -93,7 +92,7 @@
             }
           },
           {
-            "id": "c5d066d27d030664",
+            "id": "6bf2b7de940700b5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -104,7 +103,7 @@
             }
           },
           {
-            "id": "ea399f68bb6e1406",
+            "id": "99dca696a1995437",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,7 +114,7 @@
             }
           },
           {
-            "id": "aada0d4e895442db",
+            "id": "e6b6cad3d71269d1",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -139,13 +138,6 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "33f2d794c2931a85",
-  "lastOpenFiles": [
-    "naturualselection.md",
-    "rotationalalkane.md",
-    "campbell_42.md",
-    "test.md",
-    "neuralplasticity.md",
-    "무제 파일.md"
-  ]
+  "active": "e414c09f10ba3d84",
+  "lastOpenFiles": []
 }
