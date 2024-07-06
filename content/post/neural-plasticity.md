@@ -2,6 +2,7 @@
 title = '신경 가소성'
 date = 2024-07-06T23:17:00+09:00
 draft = true
+tags = ['Biology', 'Brain']
 +++
 
 

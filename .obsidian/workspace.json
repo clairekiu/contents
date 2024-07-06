@@ -11,8 +11,12 @@
             "id": "e414c09f10ba3d84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/post/rotational-alkane.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 265.5
   },
   "right": {
     "id": "44b726dddc0b3c70",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/post/rotational-alkane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/post/rotational-alkane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/post/rotational-alkane.md"
+              }
             }
           }
         ]
@@ -139,5 +147,22 @@
     }
   },
   "active": "e414c09f10ba3d84",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "static/images/240707_c2h6-newman.png",
+    "public/images/240707_c2h6-newman.png",
+    "static/images/240707_c2h6-sawhorse2.png",
+    "public/images/스크린샷 2024-07-07 02.18.01.png",
+    "public/images/240707_c2h6-sawhorse2.png",
+    "static/images/240707_c2h6-sawhorse1.png",
+    "public/images/240707_c2h6-sawhorse1.png",
+    "public/images/스크린샷 2024-07-07 02.17.44.png",
+    "public/images/240707_c2h6-sawhorse.png",
+    "content/post/rotational-alkane.md",
+    "public/images/240707_c2h6.png",
+    "public/images/스크린샷 2024-07-07 02.15.00.png",
+    "static/images",
+    "ㅑ",
+    "스크린샷.md",
+    "content/post/neural-plasticity.md"
+  ]
 }

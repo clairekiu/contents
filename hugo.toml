@@ -5,4 +5,7 @@ theme = 'hugo-PaperMod'
 relativeURLs = true
 
 [taxonomies]
-tag = "tags"
+    tag = "tags"
+
+[Params]
+    toc = true
