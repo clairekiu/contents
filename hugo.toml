@@ -7,5 +7,11 @@ relativeURLs = true
 [taxonomies]
     tag = "tags"
 
-[Params]
-    toc = true
+[params.widgets]
+  [[params.widgets.sidebar]]
+    name = "tags"
+    title = "Tags"
+    weight = 1
+
+[params.tagOptions]
+  showCount = true
