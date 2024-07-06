@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "naturualselection.md",
+                "file": "rotationalalkane.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e53218d59529f90f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "naturualselection.md",
+                "file": "rotationalalkane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "naturualselection.md",
+                "file": "rotationalalkane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "naturualselection.md"
+                "file": "rotationalalkane.md"
               }
             }
           }
@@ -148,8 +149,9 @@
   },
   "active": "f391ba1545f85e37",
   "lastOpenFiles": [
-    "campbell_42.md",
     "naturualselection.md",
+    "rotationalalkane.md",
+    "campbell_42.md",
     "test.md",
     "neuralplasticity.md",
     "무제 파일.md"
