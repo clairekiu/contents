@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "596e237367f45bd1",
+        "id": "b2fed39e079bfb30",
         "type": "tabs",
         "children": [
           {
-            "id": "9e70bbb144fa7eac",
+            "id": "f391ba1545f85e37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neuralplasticity.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neuralplasticity.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neuralplasticity.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neuralplasticity.md"
+                "file": "test.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9e70bbb144fa7eac",
+  "active": "f391ba1545f85e37",
   "lastOpenFiles": [
+    "campbell_42.md",
     "test.md",
     "neuralplasticity.md",
-    "무제 파일.md",
-    "campbell_42.md"
+    "무제 파일.md"
   ]
 }
