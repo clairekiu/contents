@@ -1,7 +1,6 @@
 +++
 title = 'MST (최소신장트리), Kruskal, Prim'
 date = 2024-07-07T03:20:18+09:00
-tags = ['Algorithm', 'Data Structure']
 ShowToc = true
 +++
 
