@@ -25,4 +25,4 @@ tags = ['Chemistry']
 
 
 ## Alkane별 예시
-### 1. Ethane ($C_6 H_6$)
+### 1. Ethane ($C_6 H_6$) 

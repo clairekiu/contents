@@ -3,9 +3,11 @@ languageCode = 'kr-ko'
 title = '@nimeajku'
 theme = 'hugo-PaperMod'
 relativeURLs = true
+preserveTaxonomyNames = true
 
 [taxonomies]
-    tag = "tags"
+  category = "categories"
+  tag = "tags"
 
 [params.widgets]
   [[params.widgets.sidebar]]
@@ -15,3 +17,15 @@ relativeURLs = true
 
 [params.tagOptions]
   showCount = true
+
+
+[params]
+  ShowCodeCopyButtons = true
+  comments = true
+  ShowBreadCrumbs = true
+  disableSpecial1stPost = true
+
+
+  [params.homeInfoParams]
+    Title = "clairekiu.github.io"
+    Content = "🎀 내 머릿속 문서화 페이지 ..."
